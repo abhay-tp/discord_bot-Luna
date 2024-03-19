@@ -1,1 +1,1 @@
-# discord_bot-Luna
+# Luna discord bot
